@@ -1,4 +1,4 @@
-# Your-First-2D-Game - Tutorial
+# Your First 2D Game - Tutorial
 
 Youtube video tutorial final phase.
 
